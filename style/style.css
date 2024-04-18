@@ -1,0 +1,36 @@
+*{
+    font-family: sans-serif;
+    font-size: 20px;
+}
+table {
+  background-color: #25bbb1;
+  width: 100%;
+  border: 1px solid #ddd;
+}
+
+th, td {
+  text-align: left;
+  padding: 16px;
+}
+#title{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#Titleintable{
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+
+}
+table tr td{
+    /* border-bottom: 1px black solid; */
+    border-left: 1px black solid;
+
+    text-align: left;
+
+}
+tbody tr:hover{
+    background-color: #ddd;
+}
