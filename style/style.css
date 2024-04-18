@@ -1,0 +1,26 @@
+.sidenav {
+    background-color: rgb(56, 55, 55);
+    width: 10rem;
+    height: 100vh;
+    margin: 5px 0 0 2px;
+    border-radius: 10px;
+}
+.sidenav img{
+    width: 100%;
+    border-radius: 10px;
+}
+.sidenav a{
+    display: block;
+    text-decoration: none;
+    color: white;
+    padding:4px 4px 4px 20px ;
+    margin-top: 20px;
+}
+.sidenav a:hover{
+    background-color: #c22828;
+    border-radius: 10px;
+    transition: 500ms;
+}
+.sidenav hr{
+    color: #882020;
+}
